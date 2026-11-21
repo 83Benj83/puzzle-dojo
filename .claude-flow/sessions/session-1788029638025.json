@@ -1,0 +1,14 @@
+{
+  "id": "session-1788029638025",
+  "startedAt": "2026-08-29T18:53:58.026Z",
+  "cwd": "/Users/benjaminwilthien/Appli_Jeux_Japonais/build/web",
+  "context": {},
+  "metrics": {
+    "edits": 0,
+    "commands": 0,
+    "tasks": 0,
+    "errors": 0
+  },
+  "endedAt": "2026-08-29T18:54:00.694Z",
+  "duration": 2669
+}
